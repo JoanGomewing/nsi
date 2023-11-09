@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.2">
+    <title>Exemple de balises HTML</title>
+</head>
+<body>
+
+ </header>
+    <button id="monBouton">Accueil</button>
+	<button id="monBouton">Les Balises</button>
+	<button id="monBouton">Page info</button>
+	
